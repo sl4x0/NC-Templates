@@ -5,12 +5,7 @@ info:
   author: "melbadry9 & pxmme1337"
   severity: high
 
-  # Update this list with new takeovers matchers
-  # Do not delete other template files for takeover
-  # https://github.com/EdOverflow/can-i-take-over-xyz
-  # You need to claim the subdomain / CNAME of the subdomain to confirm the takeover.
-  # Do not report subdomain takeover issues only based on detection.
-  # Total number of services #71
+  # I have removed the non-vulnerable services.
 
 requests:
   - method: GET
